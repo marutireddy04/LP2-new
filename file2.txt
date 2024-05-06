@@ -1,0 +1,9 @@
+Yes we can push any type of the code or simple text file to our git repository:
+.
+.
+.
+.
+.
+Name:Krushna
+Exam:LP2-web application development
+Description:This is simple text file. File2.txt
